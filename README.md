@@ -10,7 +10,6 @@
 I developed an **interactive dashboard** to simulate and monitor manufacturing processes, focusing on **production output, defect rates, downtime, and anomaly detection**. This project helped me understand how to build Python-based analytics dashboards and visualize complex datasets effectively.
 
 **What I Did:**
-What I Did:
 
 * Defined project scope, metrics, and KPIs (output, defects, defect rates, downtime, anomalies).
 * Developed scripts to simulate manufacturing data and its analytics
