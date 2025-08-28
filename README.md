@@ -89,8 +89,8 @@ Simulated **1000 records** of factory data with these fields:
 ## How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/anisyaf/Automated-Manufacturing-Monitoring---Anis-Mini-Project
+cd Automated-Manufacturing-Monitoring---Anis-Mini-Project
 pip install -r requirements.txt
 streamlit run app.py
 ```
